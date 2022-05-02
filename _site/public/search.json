@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "SKKU biohrs",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-02T11:17:18+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
